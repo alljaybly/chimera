@@ -191,9 +191,21 @@ export function Header() {
         margin: 0, 
         fontSize: '24px',
         fontWeight: 'bold',
-        whiteSpace: 'nowrap'
+        whiteSpace: 'nowrap',
+        display: 'flex',
+        alignItems: 'center',
+        gap: '8px'
       }}>
-        Digital Phylactery
+        <span style={{ fontSize: '28px' }}>🧙</span>
+        <span>CHIMERA</span>
+        <span style={{ 
+          fontSize: '14px', 
+          fontWeight: 'normal', 
+          opacity: 0.8,
+          marginLeft: '4px'
+        }}>
+          Digital Phylactery
+        </span>
       </h1>
 
       {/* KIROWEEN DEMO MODE */}

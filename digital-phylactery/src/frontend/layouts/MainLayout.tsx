@@ -57,11 +57,11 @@ export function MainLayout() {
           }}>
             <div style={{ flex: 1 }}>
               <h3 style={{ margin: '0 0 8px 0', fontSize: '18px', fontWeight: 'bold' }}>
-                🎃 KIROWEEN DEMO: Self-Evolving UI System
+                🧙 CHIMERA - Self-Evolving AI Knowledge Vault
               </h3>
               <p style={{ margin: 0, fontSize: '14px', lineHeight: '1.5' }}>
                 <strong>Watch the UI evolve!</strong> Click the red "TRIGGER UI EVOLUTION" button to see the interface adapt in real-time. 
-                The system tracks your behavior and automatically mutates the UI to optimize your workflow. 
+                CHIMERA tracks your behavior and automatically mutates the UI to optimize your workflow. 
                 Each evolution changes colors, layouts, and features based on usage patterns.
               </p>
             </div>

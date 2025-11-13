@@ -89,7 +89,7 @@ app.use((err: any, _req: express.Request, res: express.Response, _next: express.
 
 // Start server
 const server = app.listen(PORT, () => {
-  console.log(`Digital Phylactery backend server running on port ${PORT}`);
+  console.log(`🧙 CHIMERA - Digital Phylactery backend server running on port ${PORT}`);
   console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
 });
 

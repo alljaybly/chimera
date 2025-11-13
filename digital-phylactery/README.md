@@ -1,6 +1,8 @@
-# Digital Phylactery
+# 🧙 CHIMERA - Digital Phylactery
 
-A self-evolving knowledge management system that automatically discovers connections between your content and adapts its interface to your usage patterns.
+**Self-Evolving AI Knowledge Vault**
+
+CHIMERA is a revolutionary knowledge management system that automatically discovers connections between your content and adapts its interface to your usage patterns. Built for the Kiroween Hackathon 2025.
 
 ## Project Structure
 

@@ -120,4 +120,4 @@ The server is structured as follows:
 
 ## Integration
 
-This MCP server is designed to be used with the Digital Phylactery knowledge management system to enable ingestion of content from legacy protocols.
+This MCP server is designed to be used with the CHIMERA Digital Phylactery knowledge management system to enable ingestion of content from legacy protocols.

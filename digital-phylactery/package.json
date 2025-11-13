@@ -1,7 +1,7 @@
 {
-  "name": "digital-phylactery",
+  "name": "chimera-digital-phylactery",
   "version": "0.1.0",
-  "description": "Self-evolving knowledge management system",
+  "description": "CHIMERA - Self-evolving AI knowledge vault with adaptive UI",
   "type": "module",
   "scripts": {
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
