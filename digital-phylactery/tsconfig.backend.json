@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "allowImportingTsExtensions": false,
+    "noEmit": false,
+    "outDir": "./dist/backend",
+    "lib": ["ES2020"],
+    "jsx": "preserve"
+  },
+  "include": ["src/backend/**/*", "src/shared/**/*"],
+  "exclude": ["src/frontend"]
+}
